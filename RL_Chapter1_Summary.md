@@ -1,4 +1,4 @@
-**What is Reinforcement Learning (RL)?**
+**What is Reinforcement Learning aka (RL)?**
 
 *   RL is a subfield of machine learning that focuses on automatic learning of optimal decisions over time.
 *   It inherently incorporates a time dimension into its learning equations, unlike typical supervised learning problems.
